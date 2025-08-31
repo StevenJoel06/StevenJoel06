@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a recent graduate from Strathmore University
 - **[Yakwetu™ Climate Pricing](https://github.com/StevenJoel06/Yakwetu_project)**  
   A data-driven model predicting user engagement with weather data, boosting revenue by 11.5%.  
   🛠️ Python, XGBoost, Prophet  
-  ![Yakwetu Dashboard](https://via.placeholder.com/300)  
+  ![Yakwetu Dashboard]([https://via.placeholder.com/300](https://yakwetu-weather-dynamic-project.vercel.app/))  
 
 - **[HerdLyfe Dairy App](https://github.com/StevenJoel06/herdlyfe)**  
   A web app for Kenyan farmers to manage herds and trade cattle.  
